@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\clleo\source\repos\mystego\mystego\main.cpp(43,11): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\clleo\source\repos\mystego\mystego\main.cpp(81,9): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\clleo\source\repos\mystego\mystego\main.cpp(108,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mystego.vcxproj -> C:\Users\clleo\source\repos\mystego\Debug\mystego.exe
